@@ -1,0 +1,44 @@
+div {
+    margin-left: 380px;
+}
+
+body{
+    background-color: beige;
+    font-family: sans-serif;
+}
+
+#contactDiv {
+    padding: 8px;
+    margin-left: 10px;
+    margin-top: 40px;
+    width: 330px;
+   padding-bottom: 1000px;
+   background-color: darkseagreen;
+    border-radius: 45px;
+    text-align: center;
+}
+
+#skillsDiv {
+    margin-top: -1430px;
+}
+
+p {
+    padding-bottom: 30px;
+    margin-top: -15px;
+}
+
+#bioP {
+    margin-top: 60px;
+    font-weight: bold;
+}
+
+#cvImage {
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.left {
+    text-align: left;
+}
