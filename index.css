@@ -14,7 +14,9 @@ body {
     background-color: darkseagreen;
     border-radius: 45px;
     text-align: center;
-    padding-bottom: 750px;
+    position: fixed;
+    padding-bottom: 10%;
+    margin-top: 3%;
 }
 
 p {
@@ -43,10 +45,7 @@ p {
     grid-template-columns: auto auto;
 }
 
-#detailData {
-    margin-top: 40px;
-}
-
 #cvData {
     margin-top: 336px;
+    margin-left: 355px;
 }
